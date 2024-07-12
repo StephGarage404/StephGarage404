@@ -40,9 +40,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
-###
-###
-
+<br>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczV3YW93dWppZDhqdm1zZmtlbDVzdjg3OG8zbWZvNDZ5MmJ5eGpicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Gq3HNqcBvUWmVEOCR/giphy.webp" width="1000" height="300"/>
 
 ###
