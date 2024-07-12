@@ -2,8 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Im+Stéphane;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 <br clear="both">
 
-<h1 align="center">WELCOME!!</h1>
- 
 - ✨ Creating bugs since ... 2023
 - 👀 I’m interested in ... dev web
 - 🌱 I’m currently learning ... ReactJS
