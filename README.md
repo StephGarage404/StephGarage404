@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Im+Stéphane;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 <br clear="both">
 
-<h1 align="center">Hello World!!</h1>
+<h1 align="center">WELCOME!!</h1>
 
 ###
 
