@@ -1,12 +1,10 @@
+ <img src="https://readme-typing-svg.demolab.com/?lines=Hello+Im+Stéphane;Welcome+to+my+GitHub+Profile" height="150"/>
  
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello+Im+Stéphane;Welcome+to+my+GitHub+Profile" height="150"/>
-
-<br clear="both">
 - ✨ Creating bugs since ... 2023
 - 👀 I’m interested in ... dev web
 - 🌱 I’m currently learning ... ReactJS
 - 📫 How to reach me ... stephane.garage404@gmail.com
-- Carslovers
+- Carslover
 
 ###
 <h2 align="left">I code with</h2>
