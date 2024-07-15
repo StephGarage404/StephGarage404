@@ -39,10 +39,5 @@
 </div>
 <br>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczV3YW93dWppZDhqdm1zZmtlbDVzdjg3OG8zbWZvNDZ5MmJ5eGpicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7Gq3HNqcBvUWmVEOCR/giphy.webp" width="1000" height="300"/>
-<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="100" cy="100" r="50" fill="blue">
-    <animate attributeName="r" from="50" to="10" dur="1s" repeatCount="indefinite"/>
-  </circle>
-</svg>
 
 ###
