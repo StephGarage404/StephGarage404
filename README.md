@@ -1,4 +1,3 @@
- <img src="https://readme-typing-svg.demolab.com/?lines=Hello+Im+Stéphane;Welcome+to+my+GitHub+Profile" height="150"/>
  
 - ✨ Creating bugs since ... 2023
 - 👀 I’m interested in ... dev web
